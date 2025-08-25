@@ -42,7 +42,8 @@ StayFolio 사이트를 벤치마킹하여 **숙소 예약 시스템**을 구현�
 |------|------|
 | 예약 페이지 | ![reservation](./docs/images/reservation.png) |
 | 비회원 예약 취소 | ![cancel](./docs/images/cancel.png) |
-| 숙소 검색 결과 | ![search](./docs/images/search.png) |
+| 숙소 검색 결과 |![Uploading 검색&쿼리.mp4.gif…]()
+|
 
 ---
 
