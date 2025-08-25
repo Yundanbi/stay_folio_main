@@ -22,6 +22,12 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 
 ---
 
+##  실행 방법
+1. 이 레포를 클론합니다:
+   ```bash
+   git clone https://github.com/Yundanbi/stay_folio_main.git
+
+
 ## 🔑 담당 기능
 ### 1. 예약 로직 구현
 - 체크인/체크아웃 날짜 처리
