@@ -1,4 +1,4 @@
-# StayFolio Clone (Team Project - 개인 포트폴리오 정리)
+# StayFolio site (Team Project - 개인 포트폴리오 정리)
 
 > **팀 프로젝트 중 제가 직접 담당한 부분을 중심으로 정리한 포트폴리오 버전입니다.**  
 > 전체 프로젝트 및 팀 PPT는 [팀 레포 바로가기](https://github.com/Spring-team-Project2025/stay_folio_main) 에서 확인 가능합니다.
@@ -12,10 +12,10 @@ StayFolio 사이트를 벤치마킹하여 **숙소 예약 시스템**을 구현�
 ---
 
 ## 🛠 Tech Stack
-- **Frontend**: JSP, HTML5, CSS3, JavaScript (jQuery, flatpickr)  
+- **Frontend**: JavaScript 
 - **Backend**: Spring MVC, MyBatis, Oracle DB  
-- **Tools & Collaboration**: Git, GitHub, SourceTree, Notion  
-- **ETC**: AWS S3 (이미지 호스팅), PortOne (결제 API), Selenium (크롤링)  
+- **Tools**: Git, GitHub, SourceTree  
+- **ETC**: PortOne (결제 API), Selenium (크롤링)
 
 ---
 
@@ -30,8 +30,8 @@ StayFolio 사이트를 벤치마킹하여 **숙소 예약 시스템**을 구현�
 - 이메일 인증 기반 비회원 예약 조회 기능
 - 비회원 본인 확인 후 취소 처리 로직 구현
 
-### 3. 숙소 & 객실 검색 / 페이징
-- 카테고리 및 파라미터 기반 검색 (지역, 날짜, 인원수)
+### 3. 숙소 검색 
+- 카테고리 및 파라미터 기반 검색 (카테고리, 날짜, 인원수)
 - 검색 결과에 따른 숙소 리스트 출력
 - JSP 기반 페이징 처리 로직 적용
 
