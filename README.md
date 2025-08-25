@@ -11,6 +11,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
+##  디자인 & 구조 자료
+
+| 항목 | 링크 |
+|------|------|
+| 🗄 DB 구조 & UML 다이어그램 | [StayFolio Documentation](https://spring-team-project2025.github.io/stay_folio_documents/) |
+|  정보 구조 (IA) | [Google Sheet: 정보 구조도](https://docs.google.com/spreadsheets/d/1OQmVgNTZ_Yc10W1KOM3R84FSjb7fj2WZQVZQrMFWXYk/edit?pli=1&gid=0#gid=0) |
+|  UI/UX 설계 (Figma) | [Figma 디자인 파일](https://www.figma.com/design/FYYxvzwGzkNBLJrTOa5ROW/Stay-folio?node-id=0-1&p=f&t=ncAk8rEV2aezrp3R-0#-1) |
 
 ---
 
