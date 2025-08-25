@@ -58,9 +58,9 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 ## 🖥️ 구현 화면
 | 기능 | 화면 |
 |------|------|
-| 숙소검색</br> 결과 |![검색 쿼리 mp4](https://github.com/user-attachments/assets/370199b8-0ec9-4d7a-8c29-6b0360bdc8e3)|
-| 예약</br> 페이지 | ![예약결제](https://github.com/user-attachments/assets/d24139c0-ba2a-4218-a003-5351e384b482)|
-| 비회원</br> 예약</br> 취소 | ![비회원 취소 mp4](https://github.com/user-attachments/assets/6caba93e-0f63-4ccf-ac71-a11346d7af62)|
+| 숙소검색 결과 |![검색 쿼리 mp4](https://github.com/user-attachments/assets/370199b8-0ec9-4d7a-8c29-6b0360bdc8e3)|
+| 예약 페이지 |![예약 결제](https://github.com/user-attachments/assets/0b83ca1c-ac77-4daf-97fe-8529aa7c8a1e)|
+| 비회원 예약 취소 | ![비회원 취소 mp4](https://github.com/user-attachments/assets/6caba93e-0f63-4ccf-ac71-a11346d7af62)|
 
 
 ---
