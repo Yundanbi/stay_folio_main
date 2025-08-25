@@ -40,10 +40,9 @@ StayFolio 사이트를 벤치마킹하여 **숙소 예약 시스템**을 구현�
 ## 🖥️ 구현 화면
 | 기능 | 화면 |
 |------|------|
-| 예약 페이지 | ![reservation](./docs/images/reservation.png) |
+| 예약 페이지 | ![예약결제](https://github.com/user-attachments/assets/d24139c0-ba2a-4218-a003-5351e384b482)|
 | 비회원 예약 취소 | ![cancel](./docs/images/cancel.png) |
-| 숙소 검색 결과 |![Uploading 검색&쿼리.mp4.gif…]()
-|
+| 숙소 검색 결과 |![검색 쿼리 mp4](https://github.com/user-attachments/assets/370199b8-0ec9-4d7a-8c29-6b0360bdc8e3)|
 
 ---
 
