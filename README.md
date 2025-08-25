@@ -25,7 +25,8 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 
 ## 🗂 DB 설계
 - 전체 테이블 구조 및 컬럼 정의는 아래 구글 시트에서 확인할 수 있습니다.  
-👉 [DB 설계 Google Sheet 바로가기][(https://docs.google.com/spreadsheets/d/your-db-sheet-link)](https://docs.google.com/spreadsheets/d/1OQmVgNTZ_Yc10W1KOM3R84FSjb7fj2WZQVZQrMFWXYk/edit?pli=1&gid=1418480829#gid=1418480829)
+👉 [DB 설계 Google Sheet 바로가기](https://docs.google.com/spreadsheets/d/1OQmVgNTZ_Yc10W1KOM3R84FSjb7fj2WZQVZQrMFWXYk/edit?pli=1&gid=1418480829#gid=1418480829)
+
 ---
 
 ## 🔑 담당 기능
