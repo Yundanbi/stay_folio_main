@@ -2,7 +2,7 @@
 
 
 > 팀 프로젝트 중 제가 담당한 기능을 중심으로 정리한 **개인 포트폴리오 버전**입니다.  
-> 전체 프로젝트 및 팀 PPT는 👉 [팀 레포 바로가기](https://github.com/Spring-team-Project2025/stay_folio_main)
+> 전체 프로젝트는 👉 [팀 레포 바로가기](https://github.com/Spring-team-Project2025/stay_folio_main)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -136,14 +136,14 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 
 **결과 및 학습점**  
 - 본인 확인의 신뢰도가 향상되고, 예외 상황에서도 흐름이 명확해졌습니다.  
-- 인증/인가 로직은 단순하면서도 명시적으로 설계하는 것이 유지보수에 유리하다는 점을 체감했습니다.  
+- 인증/검증 로직은 단순하면서도 명시적으로 설계하는 것이 유지보수에 유리하다는 점을 체감했습니다.  
 </details>
 
 <details>
   <summary><b>5) GitHub 사용 시 협업 어려움</b></summary><br>
 
 **직면한 문제**  
-- GitHub 사용 초반, PR(풀 리퀘스트) 절차가 익숙하지 않아 어려움을 겪었습니다.  
+- GitHub 사용 초반, PR(Pull Requests) 절차가 익숙하지 않아 어려움을 겪었습니다.  
 - 같은 브랜치를 계속 사용하다 보니 충돌이 자주 발생했습니다.  
 
 **해결 과정**  
