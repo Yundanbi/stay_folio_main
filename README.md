@@ -27,6 +27,7 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
    ```bash
    git clone https://github.com/Yundanbi/stay_folio_main.git
 
+---
 
 ## 🔑 담당 기능
 ### 1. 예약 로직 구현
