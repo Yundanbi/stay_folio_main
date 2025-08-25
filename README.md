@@ -12,7 +12,7 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 ---
 
 ## 🛠 개인 Tech Stack
-- **Frontend**: JavaScript 
+- **Frontend**: JavaScript,Jsp(JSTL)
 - **Backend**: Spring MVC, MyBatis, Oracle DB  
 - **Tools**: Git, GitHub, SourceTree  
 - **ETC**: PortOne (결제 API), Selenium (크롤링)
@@ -86,7 +86,6 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 
 ## 📎 참고
 - 전체 팀 프로젝트 레포: [Spring-team-Project2025/stay_folio_main](https://github.com/Spring-team-Project2025/stay_folio_main)  
-- 개인 PPT: [docs/개인발표자료.pdf](./docs/개인발표자료.pdf)  
 
 
 <img width="1280" height="720" alt="슬라이드1" src="https://github.com/user-attachments/assets/b951c5d6-dfa7-4a2c-840f-069e02060ee5" />
