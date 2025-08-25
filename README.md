@@ -92,7 +92,7 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 </details>
 
 <details>
-  <summary><b>2) 검색 파라미터가 페이징 시 사라지는 문제</b></summary>
+  <summary><b>2) 검색 파라미터가 페이징 시 사라지는 문제</b></summary><br>
 
 **직면한 문제**  
 - JSP에서 다음 페이지 클릭 시, 기존 검색 조건(카테고리/인원/날짜)이 초기화됨.
@@ -107,7 +107,7 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 </details>
 
 <details>
-  <summary><b>3) 검색하지 않았을 때 기본 인원 처리 문제</b></summary>
+  <summary><b>3) 검색하지 않았을 때 기본 인원 처리 문제</b></summary><br>
 
 **직면한 문제**  
 - 검색하지 않고 바로 숙소 상세로 들어갔을 때, 기본 인원 수가 잘못 전달되는 문제가 발생했습니다.  
@@ -125,7 +125,7 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 </details>
 
 <details>
-  <summary><b>4) 비회원 예약 취소 시 세션 검증 불안정</b></summary>
+  <summary><b>4) 비회원 예약 취소 시 세션 검증 불안정</b></summary><br>
 
 **직면한 문제**  
 - 세션 갱신 타이밍 문제로 인해 비회원 예약 취소 시 인증이 풀려 실패하는 경우가 발생했습니다.  
@@ -140,7 +140,7 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 </details>
 
 <details>
-  <summary><b>5) GitHub 사용 시 협업 어려움</b></summary>
+  <summary><b>5) GitHub 사용 시 협업 어려움</b></summary><br>
 
 **직면한 문제**  
 - GitHub 사용 초반, PR(풀 리퀘스트) 절차가 익숙하지 않아 어려움을 겪었습니다.  
