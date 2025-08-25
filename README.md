@@ -1,3 +1,70 @@
+# StayFolio Clone (Team Project - 개인 포트폴리오 정리)
+
+> **팀 프로젝트 중 제가 직접 담당한 부분을 중심으로 정리한 포트폴리오 버전입니다.**  
+> 전체 프로젝트 및 팀 PPT는 [팀 레포 바로가기](https://github.com/Spring-team-Project2025/stay_folio_main) 에서 확인 가능합니다.
+
+---
+
+## 📖 프로젝트 개요
+StayFolio 사이트를 벤치마킹하여 **숙소 예약 시스템**을 구현한 팀 프로젝트입니다.  
+저는 **예약 기능, 비회원 예약 취소, 숙소/객실 검색 및 페이징 처리**를 중심으로 개발했습니다.  
+
+---
+
+## 🛠 Tech Stack
+- **Frontend**: JSP, HTML5, CSS3, JavaScript (jQuery, flatpickr)  
+- **Backend**: Spring MVC, MyBatis, Oracle DB  
+- **Tools & Collaboration**: Git, GitHub, SourceTree, Notion  
+- **ETC**: AWS S3 (이미지 호스팅), PortOne (결제 API), Selenium (크롤링)  
+
+---
+
+## 🔑 담당 기능
+### 1. 예약 로직 구현
+- 체크인/체크아웃 날짜 처리
+- 숙박일수 및 인원별 요금 계산
+- 할인율 적용 및 총 결제 금액 산출
+- 예약 완료 시 예약번호 자동 생성 (MyBatis `<selectKey>` + Oracle 시퀀스)
+
+### 2. 비회원 예약 조회/취소
+- 이메일 인증 기반 비회원 예약 조회 기능
+- 비회원 본인 확인 후 취소 처리 로직 구현
+
+### 3. 숙소 & 객실 검색 / 페이징
+- 카테고리 및 파라미터 기반 검색 (지역, 날짜, 인원수)
+- 검색 결과에 따른 숙소 리스트 출력
+- JSP 기반 페이징 처리 로직 적용
+
+---
+
+## 🖥️ 구현 화면
+| 기능 | 화면 |
+|------|------|
+| 예약 페이지 | ![reservation](./docs/images/reservation.png) |
+| 비회원 예약 취소 | ![cancel](./docs/images/cancel.png) |
+| 숙소 검색 결과 | ![search](./docs/images/search.png) |
+
+---
+
+## 📚 배운 점
+- MyBatis `<selectKey>`와 Oracle 시퀀스를 활용한 **중복 없는 예약번호 생성 방식** 학습  
+- AJAX와 JSP/JSTL을 결합해 **검색 파라미터와 페이징을 동적으로 처리하는 방법** 습득  
+- 세션과 파라미터를 활용한 **비회원 예약 본인 확인 로직** 구현 경험  
+- GitHub 협업 과정에서 **브랜치 충돌 해결** 및 Pull Request 활용법 체득  
+
+---
+
+## 🚀 느낀 점
+- 팀 프로젝트에서 제 역할을 명확히 수행하면서도, 다른 파트와의 연동을 위해 **협업의 중요성**을 크게 느꼈습니다.  
+- 단순한 기능 구현을 넘어, **실제 서비스에서 필요한 예외 상황 처리**(중복 예약 방지, 본인 확인, 결제 실패 대응 등)에 신경 쓰는 것이 중요하다는 것을 배웠습니다.  
+- 프로젝트 이후, **검색 최적화, 테스트 코드 작성, 소셜 로그인** 같은 기능을 더 보완하고 싶다는 생각이 들었습니다.  
+
+---
+
+## 📎 참고
+- 전체 팀 프로젝트 레포: [Spring-team-Project2025/stay_folio_main](https://github.com/Spring-team-Project2025/stay_folio_main)  
+- 개인 PPT: [docs/개인발표자료.pdf](./docs/개인발표자료.pdf)  
+
 
 <img width="1280" height="720" alt="슬라이드1" src="https://github.com/user-attachments/assets/b951c5d6-dfa7-4a2c-840f-069e02060ee5" />
 <img width="1280" height="720" alt="슬라이드2" src="https://github.com/user-attachments/assets/7b5be27f-f26e-49c5-8ca8-53543ce8e17c" />
