@@ -171,8 +171,8 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 
 ## 📎 참고
 - 전체 팀 프로젝트 레포: [Spring-team-Project2025/stay_folio_main](https://github.com/Spring-team-Project2025/stay_folio_main)  
-
-
+<details>
+  <summary><b>📑 발표 슬라이드 (펼쳐보기)</b></summary>
 <img width="1280" height="720" alt="슬라이드1" src="https://github.com/user-attachments/assets/b951c5d6-dfa7-4a2c-840f-069e02060ee5" />
 <img width="1280" height="720" alt="슬라이드2" src="https://github.com/user-attachments/assets/7b5be27f-f26e-49c5-8ca8-53543ce8e17c" />
 <img width="1280" height="720" alt="슬라이드3" src="https://github.com/user-attachments/assets/0fcbefce-1644-4bad-bc1d-989493c14de9" />
@@ -236,3 +236,4 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 <img width="1280" height="720" alt="슬라이드61" src="https://github.com/user-attachments/assets/add4ed29-1525-4a23-9ee7-c9d118cf399d" />
 <img width="1280" height="720" alt="슬라이드62" src="https://github.com/user-attachments/assets/c1f853b7-65c5-4cef-9457-0d0ba2bad82d" />
 <img width="1280" height="720" alt="슬라이드63" src="https://github.com/user-attachments/assets/eda69e59-130a-4262-9e76-8b1a22a7b543" />
+</details>
