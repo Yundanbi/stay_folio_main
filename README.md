@@ -2,7 +2,7 @@
 
 
 > 팀 프로젝트 중 제가 담당한 기능을 중심으로 정리한 **개인 포트폴리오 버전**입니다.  
-> 전체 프로젝트 및 팀 PPT는 👉 [팀 레포 바로가기](https://spring-team-project2025.github.io/stay_folio_documents/)
+> 전체 프로젝트 및 팀 PPT는 👉 [팀 레포 바로가기]([https://spring-team-project2025.github.io/stay_folio_documents/](https://github.com/Spring-team-Project2025/stay_folio_main))
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
