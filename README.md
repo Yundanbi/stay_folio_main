@@ -1,4 +1,4 @@
-# StayFolio SITE (Team Project - 개인 포트폴리오 정리)
+# 숙소 정보 & 예약 사이트 (Team Project - 개인 포트폴리오 정리)
 
 > **팀 프로젝트 중 제가 직접 담당한 부분을 중심으로 정리한 포트폴리오 버전입니다.**  
 > 전체 프로젝트 및 팀 PPT는 [팀 레포 바로가기](https://github.com/Spring-team-Project2025/stay_folio_main) 에서 확인 가능합니다.
