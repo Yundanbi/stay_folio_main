@@ -37,6 +37,20 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 
 ---
 
+## 📂 주요 폴더 구조 (담당 파트)
+
+src  
+ ┣ 📂 main/java/com/hotel/controller  
+ ┃ ┗ 📜 ReservationController.java        # 예약 컨트롤러  
+ ┣ 📂 main/java/com/hotel/mapper  
+ ┃ ┗ 📜 ReservationMapper.java            # 예약/검색 매퍼  
+ ┣ 📂 main/webapp/WEB-INF/views  
+ ┃ ┣ 📂 reservation/                      # 예약 화면 JSP  
+ ┃ ┗ 📂 search/                           # 숙소 검색 JSP  
+ ┣ 📂 main/webapp/resources/js  
+ ┃ ┣ 📜 reservation.js                    # 예약 처리 JS  
+ ┃ ┗ 📜 search.js                         # 검색/페이징 JS
+
 ## 🖥️ 구현 화면
 | 기능 | 화면 |
 |------|------|
