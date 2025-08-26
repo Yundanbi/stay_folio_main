@@ -33,6 +33,7 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 - 전체 테이블 구조 및 컬럼 정의는 아래에서 확인할 수 있습니다.  
 👉 [다이어그램 바로가기](https://spring-team-project2025.github.io/stay_folio_documents/)
 <details>
+<summary><b>예시 다이어그램들 보기</b></summary><br>
 <img width="1372" height="772" alt="image" src="https://github.com/user-attachments/assets/90e91772-b9ea-4626-a83d-4da307c483ff" />
 <img width="1370" height="773" alt="image" src="https://github.com/user-attachments/assets/d574e1a7-b840-43ee-be4f-41f8462f34ea" />
 <img width="1369" height="769" alt="image" src="https://github.com/user-attachments/assets/913c1b56-9f8d-4caf-b3bf-381f1176c287" />
