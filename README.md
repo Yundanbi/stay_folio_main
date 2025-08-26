@@ -32,6 +32,16 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 ## 🗂 DB 설계
 - 전체 테이블 구조 및 컬럼 정의는 아래 구글 시트에서 확인할 수 있습니다.  
 👉 [DB 설계 Google Sheet 바로가기](https://docs.google.com/spreadsheets/d/1OQmVgNTZ_Yc10W1KOM3R84FSjb7fj2WZQVZQrMFWXYk/edit?pli=1&gid=1418480829#gid=1418480829)
+<img width="1372" height="772" alt="image" src="https://github.com/user-attachments/assets/90e91772-b9ea-4626-a83d-4da307c483ff" />
+<img width="1370" height="773" alt="image" src="https://github.com/user-attachments/assets/d574e1a7-b840-43ee-be4f-41f8462f34ea" />
+<img width="1141" height="743" alt="image" src="https://github.com/user-attachments/assets/e383d1a6-5357-4457-8e41-ef88e3739e65" />
+<img width="1371" height="770" alt="image" src="https://github.com/user-attachments/assets/1867a4d6-9691-49fc-a91c-cafd11dc76db" />
+<img width="1371" height="770" alt="image" src="https://github.com/user-attachments/assets/58244710-cf7c-4434-a0f2-9ec6d7930d8b" />
+<img width="1372" height="769" alt="image" src="https://github.com/user-attachments/assets/c6e272e9-9b04-4b7b-9b18-8ac75f83b36a" />
+
+
+
+
 
 ---
 
