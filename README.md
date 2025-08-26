@@ -40,8 +40,14 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 <img width="1371" height="770" alt="image" src="https://github.com/user-attachments/assets/58244710-cf7c-4434-a0f2-9ec6d7930d8b" />
 <img width="1372" height="769" alt="image" src="https://github.com/user-attachments/assets/c6e272e9-9b04-4b7b-9b18-8ac75f83b36a" />
 
-
-
+---
+## 🖥️ 구현 화면
+| 기능 | 화면 |
+|-------|------|
+| 숙소</br>검색</br>결과 |![제목 없는 디자인 (4)](https://github.com/user-attachments/assets/38572938-5657-4464-8519-1830db869487)| 
+| 회원예약</br>페이지 |![제목 없는 디자인](https://github.com/user-attachments/assets/d9030c84-e6d7-4b4d-9894-b2a0db84650f)| 
+| 비회원</br>예약</br>페이지 |![제목 없는 디자인 (3)](https://github.com/user-attachments/assets/d13558b1-1b18-4c29-b64c-5f3957caff70)| 
+| 비회원</br>예약확인&취소 | ![비회원 취소 mp4](https://github.com/user-attachments/assets/6caba93e-0f63-4ccf-ac71-a11346d7af62)|
 
 
 
@@ -63,15 +69,9 @@ StayFolio 사이트를 벤치마킹하여 구현한 팀 프로젝트입니다.
 - 검색 결과에 따른 숙소 리스트 출력
 - JSP 기반 페이징 처리 로직 적용
 
----
 
-## 🖥️ 구현 화면
-| 기능 | 화면 |
-|-------|------|
-| 숙소</br>검색</br>결과 |![제목 없는 디자인 (4)](https://github.com/user-attachments/assets/38572938-5657-4464-8519-1830db869487)| 
-| 회원예약</br>페이지 |![제목 없는 디자인](https://github.com/user-attachments/assets/d9030c84-e6d7-4b4d-9894-b2a0db84650f)| 
-| 비회원</br>예약</br>페이지 |![제목 없는 디자인 (3)](https://github.com/user-attachments/assets/d13558b1-1b18-4c29-b64c-5f3957caff70)| 
-| 비회원</br>예약확인&취소 | ![비회원 취소 mp4](https://github.com/user-attachments/assets/6caba93e-0f63-4ccf-ac71-a11346d7af62)|
+
+
 
 
 
